@@ -4,3 +4,25 @@
   padding: 2rem;
   text-align: center;
 }
+
+
+.mobileNumer{
+  padding: .5rem 1rem;
+  border-radius: .5rem;
+}
+
+.submit-btn{
+  padding: .5rem 1rem;
+  margin-left: .5rem;
+  border-radius: .5rem;
+}
+
+.otpField{
+  width: 20px;
+  padding: 1rem 1rem 1rem 1.5rem;
+  height: 20px;
+  border-radius: .3rem;
+  border: none;
+  margin-right: .5rem;
+  font-size: 1rem;
+}

@@ -32,9 +32,10 @@ const OtpForm = () => {
           <input
             placeholder="Enter phone number"
             value={phoneNumber}
+            className="mobileNumer"
             onChange={handlePhoneNumber}
           />
-          <input type="submit" />
+          <input type="submit" className="submit-btn"/>
         </form>
       ) : (
         <div>
